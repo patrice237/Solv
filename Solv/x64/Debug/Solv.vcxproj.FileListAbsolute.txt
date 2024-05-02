@@ -1,0 +1,6 @@
+E:\Dev\Dev1\Solv\Solv\x64\Debug\Solv.vcxproj.AssemblyReference.cache
+E:\Dev\Dev1\Solv\Solv\x64\Debug\Solv.MyForm.resources
+E:\Dev\Dev1\Solv\Solv\x64\Debug\Solv.vcxproj.GenerateResource.cache
+E:\Dev\Dev1\Solv\Solv\x64\Debug\Solv.Accueil.resources
+E:\Dev\Dev1\Solv\Solv\x64\Debug\Solv.AjoutClient.resources
+E:\Dev\Dev1\Solv\Solv\x64\Debug\Solv.AjouterSalle.resources

@@ -1,0 +1,24 @@
+﻿  AjouterSalle.cpp
+E:\Dev\Dev1\Solv\AjouterSalle.cpp(1,1): warning C4005: '__CLR_VER' : redéfinition de macro
+  (compiler le fichier source '/AjouterSalle.cpp')
+  E:\Dev\Dev1\Solv\AjouterSalle.cpp(1,1):
+  '__CLR_VER' précédemment déclaré en ligne de commande
+  
+E:\Dev\Dev1\Solv\AjouterSalle.cpp(1,1): warning C4651: '/D__CLR_VER=40809181' spécifié pour l'en-tête précompilé mais non pour la compilation active
+  (compiler le fichier source '/AjouterSalle.cpp')
+  
+  MyForm.cpp
+E:\Dev\Dev1\Solv\MyForm.cpp(1,1): warning C4005: '__CLR_VER' : redéfinition de macro
+  (compiler le fichier source '/MyForm.cpp')
+  E:\Dev\Dev1\Solv\MyForm.cpp(1,1):
+  '__CLR_VER' précédemment déclaré en ligne de commande
+  
+E:\Dev\Dev1\Solv\MyForm.cpp(1,1): warning C4651: '/D__CLR_VER=40809181' spécifié pour l'en-tête précompilé mais non pour la compilation active
+  (compiler le fichier source '/MyForm.cpp')
+  
+E:\Dev\Dev1\Solv\MyForm.cpp(10,1): warning C4829: Paramètres potentiellement incorrects dans la fonction main. Utilisez 'int main(Platform::Array<Platform::String^>^ argv)' à la place
+  (compiler le fichier source '/MyForm.cpp')
+  
+  Génération de code en cours...
+  Accueil.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  Solv.vcxproj -> E:\Dev\Dev1\Solv\x64\Debug\Solv.dll
